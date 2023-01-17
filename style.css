@@ -10,7 +10,7 @@ h1{
 }
 .set{
     
-    padding-top: 80px;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
     
@@ -90,7 +90,7 @@ button:hover{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin-left: 41%;
+        margin-left: 39%;
 
     }
     .w {
